@@ -10,11 +10,11 @@ Para testar a aplicação:
      
       - no terminal rodar os comandos :
      
-         -npm i 
+         - npm i 
          
-         -npx prisma db seed
+         - npx prisma db seed
          
-         -npm run dev
+         - npm run dev
     
      
          
@@ -24,6 +24,6 @@ Para testar a aplicação:
       
          - npm i 
          
-         -npm run dev         
+         - npm run dev         
 
     
