@@ -6,12 +6,21 @@ Aplicação desenvolvida usando React, Typescript e Tailwind durante a NLW - Roc
 
 Para testar a aplicação:
   1)  NodeAPI:
+    
      - criar o arquivo .env com DATABASE_URL="file:./dev.db"
+     
      - no terminal rodar os comandos :
+     
          npm i 
+         
          npx prisma db seed
+         
          npm run dev
+         
   2)  Pass-in-web
+    
      - no terminal rodar os comandos :
+     
          npm i 
+         
          npm run dev         
