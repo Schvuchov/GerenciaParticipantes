@@ -10,19 +10,20 @@ Para testar a aplicação:
      
       - no terminal rodar os comandos :
      
-         --npm i 
+         -npm i 
          
-         --npx prisma db seed
+         -npx prisma db seed
          
-         --npm run dev
+         -npm run dev
     
      
          
   2)  Pass-in-web
-     - no terminal rodar os comandos:
+    
+      - no terminal rodar os comandos:
       
-         -- npm i 
+         - npm i 
          
-         --npm run dev         
+         -npm run dev         
 
     
