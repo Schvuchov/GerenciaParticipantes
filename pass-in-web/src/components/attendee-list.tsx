@@ -135,7 +135,7 @@ export function AttendeeList(){
                 <thead>
                     <tr className='border-b border-white/10'>
                         <TableHeader style={{width: 48}}>
-                            <input type='checkbox' className='size-4 bg-black/20 rounded border border-white/10'/>
+                            <input type='checkbox' className='size-4 bg-black/20 rounded border border-black/20 bg-black-500 text-orange-500  focus:ring-0'/>
                         </TableHeader>
                         <TableHeader>Código</TableHeader>
                         <TableHeader>Participante</TableHeader>
@@ -149,7 +149,7 @@ export function AttendeeList(){
                         return(
                             <TableRow key={attendee.id} className='border-b border-white/10 hover:bg-white/5'>
                                 <TableCell>
-                                    <input type="checkbox" className='size-4 bg-black/20 rounded border border-white/10 '/>
+                                    <input type="checkbox" className='size-4 bg-black/20 rounded border border-black/20 bg-black-500 text-orange-500  focus:ring-0'/>
                                 </TableCell>
                                 <TableCell>{attendee.id}</TableCell>
                                 <TableCell>
