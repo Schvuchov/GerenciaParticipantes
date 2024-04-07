@@ -5,7 +5,7 @@ Aplicação desenvolvida durante a NLW - Rocketseat usando React, aplicação do
 ![image](https://github.com/Schvuchov/GerenciaEvento/assets/86387013/9562caf8-7a9c-4e89-92a4-e9ed10972ecc)
 
 Para testar a aplicação:
-  1)  NodeAPI:
+  1)  NodeAPI:  https://github.com/Schvuchov/GerenciaParticipantesNodeAPI
       - criar o arquivo .env com DATABASE_URL="file:./dev.db"
      
       - no terminal rodar os comandos :
