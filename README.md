@@ -1,5 +1,6 @@
+## GerenciaParticipantes (Repositório Front-end)
+
 ## NLW-Unite da Rocketseat Node e React
-## GerenciaParticipantes
  Desenvolvimento de uma aplicação para o gerenciamento de Participantes
   - Front-end em ReactJS com aplicação dos conceitos de Propriedades, Estados e Componentes, tipagem com Typescript, tooling com Vite, interface responsiva com TailwindCSS, consumo de API Node.js, uso de URL states.
   - Back-end em Node.js com aplicação dos conceitos de API REST, utilizando TypeScript, Fastify como framework, integração do Prisma ORM + SQLite e Zod para validação de dados.
